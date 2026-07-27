@@ -1,0 +1,32 @@
+# Core
+python-dotenv>=1.1.0
+pandas>=2.2.2
+numpy>=2.0.0
+
+# LangChain
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-community>=0.3.0
+langchain-huggingface>=0.1.2
+langchain-mistralai>=0.2.0
+langchain-text-splitters>=0.3.0
+
+# Mistral AI
+mistralai>=1.2.0
+
+# Embeddings
+sentence-transformers>=3.0.1
+transformers>=4.45.0
+torch>=2.4.0
+
+# Vector Database
+chromadb>=0.5.5
+
+# PDF Processing
+pypdf>=5.0.0
+
+# Streamlit
+streamlit>=1.38.0
+
+# Utilities
+tqdm>=4.66.5
