@@ -6,7 +6,7 @@ The chatbot combines **LangChain**, **ChromaDB**, **Hugging Face Embeddings**, *
 
 ---
 
-## 🚀 Features
+## 🚀 Features: 
 
 - 💬 Intelligent customer support chatbot
 - 📄 Answers questions using product manuals, FAQs, warranty policies, and support documents
