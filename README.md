@@ -3,9 +3,7 @@
 An AI-powered Customer Support Chatbot built using **Retrieval-Augmented Generation (RAG)** that provides accurate, context-aware responses by retrieving information from product manuals, FAQs, warranty policies, and historical customer support tickets.
 
 The chatbot combines **LangChain**, **ChromaDB**, **Hugging Face Embeddings**, **Mistral AI**, and **Streamlit** to deliver an interactive customer support experience.
-
 ---
-
 ## 🚀 Features: 
 
 - 💬 Intelligent customer support chatbot
